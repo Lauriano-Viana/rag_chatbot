@@ -1,2 +1,2 @@
 mod - 07 - Chatbot com IA
-043 - implementando RAG no ChatBot
+044 - Configurando vector store no ChatBot
