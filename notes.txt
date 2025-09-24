@@ -1,2 +1,3 @@
 mod - 07 - Chatbot com IA
-044 - Configurando vector store no ChatBot
+045 - Implementando histórico de mensagens
+07:17
